@@ -2,3 +2,4 @@ __pycache__/
 *.pyc
 .env
 checklist.json
+day2_checklist.json
